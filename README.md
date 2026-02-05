@@ -164,4 +164,3 @@ This project is open-source and available for learning and educational purposes.
 Amna Mehmood
 Frontend Developer (SMIT Student)
 🔗 GitHub: https://github.com/Amna7877
-🔗 Live Link: https://resume-builder-pink-eight-75.vercel.app
